@@ -1,8 +1,12 @@
 *{margin: 0; padding: 0;}
-
 .texto_principal{
-    color:cyan;
+    color:rgb(2, 2, 2);
 }
-.texto_secundario{
-    color:blue;
+
+#texto01{
+    background-color: tomato;
+}
+
+#texto02{
+    background-color:yellowgreen;
 }
