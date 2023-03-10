@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0;}
+
+/* aqui o explode de um padding com dimenções perosnalizada em uma unica linha */
+#exemplo01{
+    background-color: green;
+    color: #3fff;
+    width: 1000px;
+    margin: 50px;
+    padding:20px 10px 15px 25px;
+}
+
+/* aqui o padding foi ajustado para ter dimenções personalizadas */
+#exemplo02{
+    background-color:deepskyblue;
+    color:tomato;
+    width: 1000px;
+    margin: 50px;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+/* nesse exemplo temos o padding como o formato padrão para todos oso lados */
+#exemplo03{ 
+    background-color:blueviolet;
+    color:lemonchiffon;
+    width: 1000px;
+    margin: 50px;
+    padding:20px;
+}
