@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+/* h1{
+    color:hotpink;
+    text-align: center;
+}
+h2{
+    color:chocolate;
+    text-align: center;
+}
+p{
+    color:limegreen;
+    text-align: center;
+} */
+h1,h2,p{
+    color:chocolate;
+    text-align: center;
+}
