@@ -1,0 +1,44 @@
+*{margin: 0; padding: 0;}
+
+#texto01{
+    color:indigo;
+    text-align:unset;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 3px;
+}
+
+#texto02{
+    color:red;
+    text-align: justify;
+    text-transform:lowercase;
+    letter-spacing: 10px;
+    text-shadow: 4px;
+}
+
+#texto03{
+    color:aqua;
+    text-align:left;
+    text-transform:capitalize;
+    letter-spacing: 15px;
+    text-shadow: 1px 1px black;
+}
+
+
+h1{
+    color: blue;
+    text-align: left;
+    text-decoration: dotted;
+}
+
+h2{
+    color: darkseagreen;
+    text-align: right;
+    text-decoration:overline;
+}
+
+h3{
+    color:darkorange;
+    text-align: center;
+    text-decoration: line-through;
+}
